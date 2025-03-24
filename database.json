@@ -1,3 +1,27 @@
 {
-    "users": {}
+  "users": {
+    "9040314183": {
+      "mobile": "9040314183",
+      "pin": "9040",
+      "activationCode": "COBRA"
+    },
+    "9040314184": {
+      "mobile": "9040314184",
+      "pin": "9040",
+      "balance": 0,
+      "transactions": []
+    }
+  },
+  "9040314185": {
+    "mobile": "9040314185",
+    "pin": "9040",
+    "activationCode": "COBRA",
+    "balance": 0
+  },
+  "9040314183": {
+    "mobile": "9040314183",
+    "pin": "9040",
+    "activationCode": "COBRS",
+    "balance": 0
+  }
 }
