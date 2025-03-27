@@ -1,21 +1,6 @@
 {
-  "users": {},
-  "9040314180": {
-    "mobile": "9040314180",
-    "pin": "9040",
-    "activationCode": "COBAA",
-    "balance": 8
-  },
-  "9040314184": {
-    "mobile": "9040314184",
-    "pin": "9040",
-    "activationCode": "FFFFF",
-    "balance": 5
-  },
-  "9040314183": {
-    "mobile": "9040314183",
-    "pin": "4444",
-    "activationCode": "COBRA",
-    "balance": 9
-  }
+  "mobile": "9040314183",
+  "pin": "3313",
+  "activationCode": "COBRA",
+  "balance": 9
 }
