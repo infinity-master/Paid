@@ -101,5 +101,11 @@
     "pin": "1234",
     "activationCode": "WYGAX",
     "balance": 10
+  },
+  "8763788754": {
+    "mobile": "8763788754",
+    "pin": "7542",
+    "activationCode": "HNSDY",
+    "balance": 10
   }
 }
