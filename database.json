@@ -131,5 +131,11 @@
     "pin": "1234",
     "activationCode": "PWDLT",
     "balance": 10
+  },
+  "6355336085": {
+    "mobile": "6355336085",
+    "pin": "1234",
+    "activationCode": "LTEBS",
+    "balance": 10
   }
 }
