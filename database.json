@@ -125,5 +125,11 @@
     "pin": "1234",
     "activationCode": "12345",
     "balance": 10
+  },
+  "8249180566": {
+    "mobile": "8249180566",
+    "pin": "1234",
+    "activationCode": "PWDLT",
+    "balance": 10
   }
 }
