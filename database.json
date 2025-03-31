@@ -143,5 +143,11 @@
     "pin": "1234",
     "activationCode": "VHOHU",
     "balance": 10
+  },
+  "9827873538": {
+    "mobile": "9827873538",
+    "pin": "0000",
+    "activationCode": "HPERG",
+    "balance": 10
   }
 }
