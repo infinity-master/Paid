@@ -191,5 +191,11 @@
     "pin": "1804",
     "activationCode": "18042",
     "balance": 10
+  },
+  "8260748442": {
+    "mobile": "8260748442",
+    "pin": "1234",
+    "activationCode": "LALU@",
+    "balance": 10
   }
 }
