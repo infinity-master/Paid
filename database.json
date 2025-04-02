@@ -197,5 +197,11 @@
     "pin": "1234",
     "activationCode": "LALU@",
     "balance": 10
+  },
+  "6370736392": {
+    "mobile": "6370736392",
+    "pin": "1234",
+    "activationCode": "LUTRU",
+    "balance": 10
   }
 }
