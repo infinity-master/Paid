@@ -203,5 +203,11 @@
     "pin": "1234",
     "activationCode": "LUTRU",
     "balance": 10
+  },
+  "9348149776": {
+    "mobile": "9348149776",
+    "pin": "1111",
+    "activationCode": "11111",
+    "balance": 10
   }
 }
