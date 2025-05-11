@@ -239,5 +239,11 @@
     "pin": "5035",
     "activationCode": "KHUUM",
     "balance": 10
+  },
+  "7853027852": {
+    "mobile": "7853027852",
+    "pin": "7853",
+    "activationCode": "HLHLI",
+    "balance": 10
   }
 }
