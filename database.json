@@ -257,5 +257,11 @@
     "pin": "1234",
     "activationCode": "WUUBH",
     "balance": 10
+  },
+  "6370448684": {
+    "mobile": "6370448684",
+    "pin": "2580",
+    "activationCode": "PNMYD",
+    "balance": 10
   }
 }
