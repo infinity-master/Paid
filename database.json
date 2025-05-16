@@ -251,5 +251,11 @@
     "pin": "7890",
     "activationCode": "CTXDA",
     "balance": 10
+  },
+  "8018515347": {
+    "mobile": "8018515347",
+    "pin": "1234",
+    "activationCode": "WUUBH",
+    "balance": 10
   }
 }
