@@ -293,5 +293,11 @@
     "pin": "2003",
     "activationCode": "MWYKG",
     "balance": 10
+  },
+  "9548389760": {
+    "mobile": "9548389760",
+    "pin": "9548",
+    "activationCode": "JZVBI",
+    "balance": 10
   }
 }
