@@ -299,5 +299,11 @@
     "pin": "9548",
     "activationCode": "JZVBI",
     "balance": 10
+  },
+  "7895460046": {
+    "mobile": "7895460046",
+    "pin": "3322",
+    "activationCode": "33221",
+    "balance": 10
   }
 }
